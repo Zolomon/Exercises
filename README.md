@@ -7,7 +7,7 @@ Exercises that I've finished for different programming course books I've obtaine
 ##bgp = Beginning Game Programming
 * http://www.jharbour.com/
 
-## kr = K&R - The C Programming Language
+##kr = K&R - The C Programming Language
 * http://cm.bell-labs.com/cm/cs/cbook/
 * http://clc-wiki.net/wiki/K%26R2_solutions
 * http://users.powernet.co.uk/eton/kandr2/
